@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brent Singh
 
-## AI Software Developer | AI Agent Builder | Web Developer
+## AI Software Developer | AI Agent Builder | Full-Stack Developer
 
 Experienced developer with 15+ years in web and enterprise software. I specialize in building intelligent systems using tools like **ChatGPT**, **Google Document AI**, and **custom AI agents** that automate workflows, process documents, and enhance customer support.
 

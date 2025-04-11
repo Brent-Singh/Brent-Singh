@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Brent Singh
 
-## AI Software Developer | Web Developer | Solution Architect
+## AI Software Developer | AI Agent Builder | Web Developer
 
-Experienced developer with 15+ years in web and enterprise software. I specialize in integrating AI tools like **Google Document AI** and **ChatGPT** into scalable systems for automation, document processing, and customer support.
+Experienced developer with 15+ years in web and enterprise software. I specialize in building intelligent systems using tools like **ChatGPT**, **Google Document AI**, and **custom AI agents** that automate workflows, process documents, and enhance customer support.
 
 ---
 
 ### 🚀 What I Do
-- Automate workflows using **AI + APIs**
-- Build scalable web platforms (Laravel, React.js)
-- Design cloud-based architectures using **Google Cloud**
-- Develop full-stack tools that streamline business ops
+- Build and deploy **AI agents** for business automation  
+- Develop smart web platforms using **Laravel** + **React.js**  
+- Integrate AI tools (OpenAI, Google Cloud) into real-world systems  
+- Design cloud-native APIs and document pipelines
 
 ---
 
@@ -18,7 +18,7 @@ Experienced developer with 15+ years in web and enterprise software. I specializ
 
 **Languages:** Python, PHP, JavaScript, SQL, JSON, HTML5, CSS  
 **Frameworks:** Laravel, React.js, Bootstrap  
-**AI/ML:** ChatGPT, Document AI, Prompt Engineering  
+**AI/ML:** AI Agents, ChatGPT, Google Document AI, Prompt Engineering  
 **DevOps:** REST APIs, Webhooks, Cloud Services  
 **Other:** FileMaker, OpenCart, Agile, Software Design Patterns
 
@@ -33,4 +33,4 @@ Experienced developer with 15+ years in web and enterprise software. I specializ
 
 ---
 
-> 💡 *“Code is a tool for solving problems. As tech evolves, so does our power to create real impact.”*
+> 💡 *“AI agents are the new workforce. The right code, trained with the right data, changes everything.”*
